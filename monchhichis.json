@@ -3,18 +3,70 @@
     "id": "m001",
     "name": "Classic Monchhichi (Brown)",
     "year": 1974,
-    "image": "https://example.com/monchhichi1.jpg"
+    "series": "Original",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Monchhichi_original_1974.jpg"
   },
   {
     "id": "m002",
     "name": "Strawberry Monchhichi",
     "year": 2004,
-    "image": "https://example.com/monchhichi2.jpg"
+    "series": "Fruit Series",
+    "image": "https://i.imgur.com/ABCD123.jpg"
   },
   {
     "id": "m003",
     "name": "Birthday Girl Monchhichi",
     "year": 2018,
-    "image": "https://example.com/monchhichi3.jpg"
+    "series": "Celebration",
+    "image": "https://i.imgur.com/EFGH456.jpg"
+  },
+  {
+    "id": "m004",
+    "name": "Panda Costume Monchhichi",
+    "year": 2020,
+    "series": "Animal Costumes",
+    "image": "https://i.imgur.com/IJKL789.jpg"
+  },
+  {
+    "id": "m005",
+    "name": "Halloween Witch Monchhichi",
+    "year": 2021,
+    "series": "Seasonal",
+    "image": "https://i.imgur.com/MNOP101.jpg"
+  },
+  {
+    "id": "m006",
+    "name": "Wedding Bride Monchhichi",
+    "year": 2015,
+    "series": "Wedding Special",
+    "image": "https://i.imgur.com/QRST112.jpg"
+  },
+  {
+    "id": "m007",
+    "name": "Baby Blue Overalls Monchhichi",
+    "year": 2000,
+    "series": "Classic Outfits",
+    "image": "https://i.imgur.com/UVWX131.jpg"
+  },
+  {
+    "id": "m008",
+    "name": "Red Riding Hood Monchhichi",
+    "year": 2019,
+    "series": "Fairy Tale",
+    "image": "https://i.imgur.com/YZAB141.jpg"
+  },
+  {
+    "id": "m009",
+    "name": "Sleepy Pajama Monchhichi",
+    "year": 2022,
+    "series": "Bedtime",
+    "image": "https://i.imgur.com/CDEF151.jpg"
+  },
+  {
+    "id": "m010",
+    "name": "Santa Claus Monchhichi",
+    "year": 2023,
+    "series": "Holiday",
+    "image": "https://i.imgur.com/GHIJ161.jpg"
   }
 ]
