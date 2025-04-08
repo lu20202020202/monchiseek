@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Playfair+Display:wght@600&display=swap');
+
+body {
+  font-family: Arial, sans-serif;
+  background: #F2E9E4;
+  color: #4A3B36;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+  color: #B38D86;
+  background: #ECE2DE;
+  padding: 1rem;
+  margin: 0;
+  border-bottom: 2px solid #CC9E89;
+}
+
+nav {
+  background: #CC9E89;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+nav button {
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  background: #B38D86;
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 0.7rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+nav button:hover {
+  background: #8C6A64;
+}
+
+.tab {
+  padding: 2rem 1rem;
+}
+
+.card {
+  background: #FFFFFF;
+  border: 2px solid #ECE2DE;
+  border-radius: 1.2rem;
+  box-shadow: 0 4px 10px rgba(140, 106, 100, 0.15);
+  max-width: 320px;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+.card img {
+  max-width: 100%;
+  border-radius: 0.7rem;
+  margin-bottom: 0.5rem;
+}
+
+.card h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.4rem;
+  margin: 0.2rem 0;
+  color: #8C6A64;
+}
+
+.card p {
+  margin: 0.5rem 0;
+  font-size: 0.95rem;
+  color: #4A3B36;
+}
+
+.card button {
+  display: block;
+  margin: 0.4rem auto;
+  background: #CC9E89;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.card button:hover {
+  background: #B38D86;
+}

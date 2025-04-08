@@ -1,0 +1,20 @@
+[
+  {
+    "id": "m001",
+    "name": "Classic Monchhichi (Brown)",
+    "year": 1974,
+    "image": "https://example.com/monchhichi1.jpg"
+  },
+  {
+    "id": "m002",
+    "name": "Strawberry Monchhichi",
+    "year": 2004,
+    "image": "https://example.com/monchhichi2.jpg"
+  },
+  {
+    "id": "m003",
+    "name": "Birthday Girl Monchhichi",
+    "year": 2018,
+    "image": "https://example.com/monchhichi3.jpg"
+  }
+]
